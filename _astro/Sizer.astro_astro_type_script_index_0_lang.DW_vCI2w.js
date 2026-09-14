@@ -1,0 +1,1 @@
+import{t as e}from"./sizer.BktIm2Qc.js";e();
