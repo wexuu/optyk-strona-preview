@@ -1,0 +1,13 @@
+{
+  "name": "Optyka Bogusławscy",
+  "short_name": "Bogusławscy",
+  "lang": "pl",
+  "start_url": "/",
+  "display": "browser",
+  "theme_color": "#eef4f7",
+  "background_color": "#ffffff",
+  "icons": [
+    { "src": "/media/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/media/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
